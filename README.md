@@ -1,5 +1,14 @@
 # SpotifyApp
 
+[![spoty.png](https://i.postimg.cc/4dQPFXx4/spoty.png)](https://postimg.cc/YGjQvKFT)
+
+[![spoty-2.png](https://i.postimg.cc/hvGLyxYM/spoty-2.png)](https://postimg.cc/mz01hcBF)
+
+[![spoty-3.png](https://i.postimg.cc/tJfxBcWC/spoty-3.png)](https://postimg.cc/N26FMpdW)
+
+[![spoty-4.png](https://i.postimg.cc/yYg9DVCJ/spoty-4.png)](https://postimg.cc/jLTC9Y5K)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.15.
 
 ## Development server
